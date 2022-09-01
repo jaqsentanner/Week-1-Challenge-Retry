@@ -22,7 +22,7 @@ Better luck next time :)
 
 ## View My Work Here ↓
 
-link to posted webpage on github pages once it is live
+https://jaqsentanner.github.io/Week-1-Challenge-Retry/ 
 
 ## Webpage Screenshots ↓
 
